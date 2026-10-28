@@ -1,0 +1,191 @@
+{
+  "capturedAt": "2026-10-28T16:24:22.777Z",
+  "browser": "Google Chrome",
+  "browserVersion": "156.0.8078.48",
+  "viewports": {
+    "desktop": "1440x900",
+    "mobile": "390x844"
+  },
+  "projects": [
+    {
+      "slug": "industrial-electric",
+      "name": "Industrial Electric",
+      "url": "https://ugurweb-elektrik-demo.cancatak59.workers.dev/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "Ana sayfa | Örnek Elektrik",
+      "h1": "Elektrik ve Mühendislikte Güvenilir Çözümler",
+      "finalUrl": "https://ugurweb-elektrik-demo.cancatak59.workers.dev/",
+      "brokenImages": [],
+      "consoleErrors": [
+        "desktop: Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ]
+    },
+    {
+      "slug": "automotive-gallery",
+      "name": "Automotive Gallery",
+      "url": "https://ugurweb-automotive-demo.cancatak59.workers.dev/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "Ana sayfa | Automotive Preview",
+      "h1": "Özenle seçilmiş araçlar. Doğru seçim.",
+      "finalUrl": "https://ugurweb-automotive-demo.cancatak59.workers.dev/",
+      "brokenImages": [],
+      "consoleErrors": [
+        "desktop: Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ]
+    },
+    {
+      "slug": "clinic-website",
+      "name": "Clinic Website",
+      "url": "https://ugurweb-clinic-demo.cancatak59.workers.dev/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "Ana sayfa | Liva Klinik",
+      "h1": "Sağlığınız için sakin, anlaşılır bir başlangıç.",
+      "finalUrl": "https://ugurweb-clinic-demo.cancatak59.workers.dev/",
+      "brokenImages": [],
+      "consoleErrors": [
+        "desktop: Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ]
+    },
+    {
+      "slug": "appointment-website",
+      "name": "Appointment Website",
+      "url": "https://ugurweb-appointment-demo.cancatak59.workers.dev/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "Ana sayfa | Liva Randevu",
+      "h1": "Kendinize ayırdığınız zaman, burada başlar.",
+      "finalUrl": "https://ugurweb-appointment-demo.cancatak59.workers.dev/",
+      "brokenImages": [],
+      "consoleErrors": [
+        "desktop: Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ]
+    },
+    {
+      "slug": "barber-studio",
+      "name": "Barber Studio",
+      "url": "https://ugurweb-barber-sales-demo.cancatak59.workers.dev/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "Ana sayfa | Atelier Barber",
+      "h1": "Berber randevunuzu birkaç adımda talep edin.",
+      "finalUrl": "https://ugurweb-barber-sales-demo.cancatak59.workers.dev/",
+      "brokenImages": [],
+      "consoleErrors": [],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ]
+    },
+    {
+      "slug": "hotel-booking",
+      "name": "Hotel Booking",
+      "url": "https://ugurweb-hotel-demo.cancatak59.workers.dev/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "Mora House | İstanbul Butik Otel",
+      "h1": "Şehrin içinde, kendi ritminde.",
+      "finalUrl": "https://ugurweb-hotel-demo.cancatak59.workers.dev/",
+      "brokenImages": [],
+      "consoleErrors": [],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ]
+    },
+    {
+      "slug": "aula-esports",
+      "name": "AULA Esports",
+      "url": "http://127.0.0.1:8088/",
+      "status": "captured",
+      "httpStatus": 200,
+      "title": "AULA E-Sports – Competitive Gear",
+      "h1": "PLAY FAST. COMPETE FEARLESSLY.",
+      "finalUrl": "http://127.0.0.1:8088/",
+      "brokenImages": [],
+      "consoleErrors": [],
+      "files": [
+        "desktop-home.png",
+        "desktop-full.png",
+        "mobile-home.png",
+        "mobile-full.png"
+      ],
+      "additional": {
+        "shop": {
+          "url": "http://127.0.0.1:8088/shop/",
+          "status": 200,
+          "file": "shop-desktop.png"
+        },
+        "product": {
+          "url": "http://127.0.0.1:8088/product/arc-task-lamp/",
+          "status": 200,
+          "files": [
+            "product-desktop.png",
+            "product-mobile.png"
+          ]
+        },
+        "variableProduct": {
+          "url": "http://127.0.0.1:8088/product/axis-75-mechanical-keyboard/",
+          "status": 200,
+          "files": [
+            "variable-product-desktop.png",
+            "variable-product-mobile.png"
+          ]
+        },
+        "cart": {
+          "url": "http://127.0.0.1:8088/cart/",
+          "files": [
+            "cart-desktop.png",
+            "cart-mobile.png"
+          ],
+          "ready": true,
+          "itemCount": 1,
+          "skeletonCount": 0,
+          "busyCount": 0
+        },
+        "checkout": {
+          "url": "http://127.0.0.1:8088/checkout/",
+          "files": [
+            "checkout-desktop.png",
+            "checkout-mobile.png"
+          ],
+          "ready": true,
+          "contactFormVisible": true,
+          "skeletonCount": 0,
+          "busyCount": 0
+        },
+        "safety": "A temporary anonymous browser cart was used. No checkout was submitted, no order was created, and stock was not changed."
+      }
+    }
+  ]
+}

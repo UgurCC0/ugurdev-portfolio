@@ -1,0 +1,89 @@
+{
+  "generatedAt": "2026-10-28T18:54:46.221Z",
+  "format": "WebP",
+  "dimensions": "1200x750",
+  "quality": 0.84,
+  "sourceBytes": 4594059,
+  "optimizedBytes": 440292,
+  "savingsPercent": 90.4,
+  "originalsPreserved": true,
+  "images": [
+    {
+      "slug": "industrial-electric",
+      "source": "assets/screenshots/industrial-electric/desktop-home.png",
+      "output": "assets/screenshots/readme/industrial-electric-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 681977,
+      "optimizedBytes": 75062,
+      "savingsPercent": 89
+    },
+    {
+      "slug": "automotive-gallery",
+      "source": "assets/screenshots/automotive-gallery/desktop-home.png",
+      "output": "assets/screenshots/readme/automotive-gallery-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 993725,
+      "optimizedBytes": 62316,
+      "savingsPercent": 93.7
+    },
+    {
+      "slug": "clinic-website",
+      "source": "assets/screenshots/clinic-website/desktop-home.png",
+      "output": "assets/screenshots/readme/clinic-website-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 459129,
+      "optimizedBytes": 47718,
+      "savingsPercent": 89.6
+    },
+    {
+      "slug": "appointment-website",
+      "source": "assets/screenshots/appointment-website/desktop-home.png",
+      "output": "assets/screenshots/readme/appointment-website-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 367861,
+      "optimizedBytes": 41006,
+      "savingsPercent": 88.9
+    },
+    {
+      "slug": "barber-studio",
+      "source": "assets/screenshots/barber-studio/desktop-home.png",
+      "output": "assets/screenshots/readme/barber-studio-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 197409,
+      "optimizedBytes": 32794,
+      "savingsPercent": 83.4
+    },
+    {
+      "slug": "hotel-booking",
+      "source": "assets/screenshots/hotel-booking/desktop-home.png",
+      "output": "assets/screenshots/readme/hotel-booking-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 968752,
+      "optimizedBytes": 97062,
+      "savingsPercent": 90
+    },
+    {
+      "slug": "aula-esports",
+      "source": "assets/screenshots/aula-esports/desktop-home.png",
+      "output": "assets/screenshots/readme/aula-esports-desktop.webp",
+      "width": 1200,
+      "height": 750,
+      "quality": 0.84,
+      "sourceBytes": 925206,
+      "optimizedBytes": 84334,
+      "savingsPercent": 90.9
+    }
+  ]
+}

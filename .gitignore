@@ -1,0 +1,6 @@
+node_modules/
+.superpowers/
+docs/superpowers/
+tests/diagnose-*.cjs
+Thumbs.db
+.DS_Store
